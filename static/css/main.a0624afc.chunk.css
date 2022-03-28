@@ -1,0 +1,2 @@
+.App{display:flex;justify-content:space-around}.container{width:600px;margin:0 auto 40px}.header{display:flex;justify-content:space-between;align-items:center}.header__title{margin-right:48px}.list{padding-left:0}.list__item{display:flex;justify-content:space-between;align-items:center;padding:16px 0}.list__item_active{background-color:#adff2f}.button{cursor:pointer}.button--close{margin-right:16px}
+/*# sourceMappingURL=main.a0624afc.chunk.css.map */
